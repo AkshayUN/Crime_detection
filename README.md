@@ -1,2 +1,1 @@
-This script uses crime data in Chicago and machine learning to predict the types of crimes that are most likely to occur and therefore the police force to dispatch
-given time and location, providing a map visualization of that location.
+This script leverages crime data from Chicago and machine learning techniques to predict the most likely types of crimes based on time and location. It provides actionable insights for dispatching the appropriate police resources and features a dynamic map visualization highlighting crime-prone areas.
